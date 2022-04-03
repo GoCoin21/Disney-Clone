@@ -1,3 +1,5 @@
+# This is a simple Disney+ Hotstar WebApp Clone build using ReactJs. Used Firebase to store movies,series and users SignUp
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
